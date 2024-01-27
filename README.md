@@ -1,7 +1,7 @@
-# GestionPHP
+# Application de Gestion d'équipes de Rugby
 
 GestionRugbyProjet :
-
+@pre
      sudo apt install postgresql
      sudo systemctl status postgresql
      sudo su - postgres
@@ -12,10 +12,10 @@ Ce projet a été conçu en PHP afin d'avoir une application web capable de modi
 
 
 !Attention!
-Veuillez suivre les étapes suivantes afin de visualiser correctement le projet
+Veuillez suivre les étapes suivantes afin d'utiliser correctement le projet
 
 
-- Déplacer le dossier 'proj' dans les fichiers de votre serveur
+- Déplacer le dossier 'PHP' dans les fichiers de votre serveur
 
 Dans notre cas, c'est un serveur local (WAMP)
 Nous avons déplacé 'proj' dans %wamp64/www/%
@@ -37,7 +37,3 @@ $host='Le nom du serveur hôte';
 $dbName='le nom de votre base de données';
 $dbUser='Le nom d'utilisateur';
 $dbPassword='Le mot de passe de votre bdd';
-
-
-
-- Bravo! Vous pouvez maintenant visualiser le projet.
