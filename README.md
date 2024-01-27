@@ -1,6 +1,4 @@
-# GestionPHP
-
-Application de Gestion d'équipes de Rugby :
+#Application de Gestion d'équipes de Rugby :
 
 Ce projet a été conçu en PHP afin d'avoir une application web capable de modifier/créer et supprimer des enregistrements d'une base de données.
 
